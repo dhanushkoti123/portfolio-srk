@@ -608,7 +608,7 @@ tfoot td{
         font-size: 1rem;
     }
     #home p{
-        font-size: 0.7rem;
+        font-size: 0.5rem;
     }
 
     #qualify a{
@@ -639,6 +639,23 @@ tfoot td{
     #Achieve h2{
         font-size: 1rem;
     }
+    
+.gallery{
+    max-width: 700px;
+    margin: auto;
+    background-color: azure;
+    overflow: auto;
+    margin-top: 5px;
+
+}
+
+.photos{
+    margin: 10px;
+    width: 400px;
+    /* float: left; */
+    border: 1px solid #ffaa00d5 ;
+
+}
 
     #passion h2{
         font-size: 1rem;
@@ -673,10 +690,10 @@ tfoot td{
         width: 100%;
         /* margin-left: 40px; */
         height: 70vh;
-        margin-top: 15px;
+        margin-top: 25px;
         /* border-color:  black  blanchedalmond; */
         /* box-shadow: 20px; */
-        padding:10px;
+        padding:5px;
         
     }
     
@@ -696,7 +713,7 @@ tfoot td{
         font-size: 0.5rem;
         color:whitesmoke;
         align-items: center;
-        padding: 7.5px 10px;
+        padding: 7.5px 8px;
         font-weight: bold;
         
     
@@ -705,7 +722,7 @@ tfoot td{
     tfoot td{
         font-size: 0.5rem;
         color:whitesmoke;
-        padding: 7.5px 10px;
+        padding: 7.5px 8px;
         font-weight: bold;
         align-items: center;
     }
@@ -716,6 +733,8 @@ tfoot td{
         justify-content: center;
         text-align: center;
         margin-left: 15px;
+        padding-top:40px
+     
      }
 
      .submit{
